@@ -12,5 +12,7 @@ public class Main {
         receta.infoReceta();           // muestra el tiempo de preparación
         receta.mostrarIngredientes();  // ingredientes aleatorios
         receta.cocinar();              // pasos de cocina
+    
+        
     }
 }
